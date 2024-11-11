@@ -5,6 +5,6 @@
 
 ## Screenshot
 - **Awal**
-  ![screenshotLama](Awal.png)
+  ![screenshotLama](ss/Awal.png)
 - **Sekarang**
-  ![Sekarang](Baru.png)
+  ![Sekarang](ss/Baru.png)
