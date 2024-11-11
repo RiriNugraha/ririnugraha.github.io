@@ -4,6 +4,7 @@
   website ini dibuat dari hanya ada "Hello world!" sampai sekarang
 
 ## Screenshot
-- **Lama**
-  ![screenshot](ScreenshotLama.png)
-- **Baru**
+- **Awal**
+  ![screenshotLama](Awal.png)
+- **Sekarang**
+  ![Sekarang](Baru.png)
